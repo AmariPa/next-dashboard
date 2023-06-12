@@ -19,7 +19,7 @@ export const data = [
 		},
 		total: 1050.5,
 		status: 'Processing',
-		method: 'Credit Card',
+		method: 'Visa',
 		date: '2 Hours ago',
 	},
 
@@ -55,7 +55,7 @@ export const data = [
 		},
 		total: 199.95,
 		status: 'On Hold',
-		method: 'Credit Card',
+		method: 'MasterCard',
 		date: '1 Hour ago',
 	},
 
@@ -91,7 +91,7 @@ export const data = [
 		},
 		total: 149.99,
 		status: 'Completed',
-		method: 'Credit Card',
+		method: 'American Express',
 		date: '1 Day ago',
 	},
 
