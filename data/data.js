@@ -102,7 +102,7 @@ export const data = [
 			last: 'Clark',
 		},
 		total: 59.95,
-		status: 'Cancelled',
+		status: 'Completed',
 		method: 'PayPal',
 		date: '2 Weeks ago',
 	},
